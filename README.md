@@ -1,3 +1,7 @@
+<a href="">
+    <img src="./images/20200317.7.gif" alt="Project Logo" align="right" width="100" />
+</a>
+
 # UFO-LAMP
 
 Cool UFO abduction lamp made using nodemcu integrated with Alexa
