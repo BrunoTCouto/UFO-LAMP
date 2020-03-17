@@ -1,4 +1,4 @@
-<a href="">
+<a href="https://www.thingiverse.com/thing:3492682">
     <img src="./images/20200317.7.gif" alt="Project Logo" align="right" width="100" />
 </a>
 
