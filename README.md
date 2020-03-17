@@ -22,7 +22,7 @@ Cool UFO abduction lamp made using nodemcu integrated with Alexa
 
 |                     PCB TOP                     |                   PCB BOTTOM                    |                 Crown Assembly                  | UFO TOP |
 | :---------------------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :-----: |
-| <img src="./images/20200317.1.JPG" width="200"> | <img src="./images/20200317.2.jpg" width="200"> | <img src="./images/20200317.3.JPG" width="200"> | <img src="./images/20200317.4.JPG" width="200"> |
+| <img src="./images/20200317.1.JPG" width="200"> | <img src="./images/20200317.2.JPG" width="200"> | <img src="./images/20200317.3.jpg" width="200"> | <img src="./images/20200317.4.JPG" width="200"> |
 
 |                   UFO TOP ON                    |                First test Blink                 |             Almost complete Project             |
 | :---------------------------------------------: | :---------------------------------------------: | :---------------------------------------------: |
