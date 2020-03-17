@@ -4,12 +4,13 @@ Cool UFO abduction lamp made using nodemcu integrated with Alexa
 # !TODO: SCHEMATICS
 
 # Project Images
-![PCB UP](./images/20200317.1.JPG)
 
-![PCB TOP](./images/20200317.2.JPG)
+<img src="./images/20200317.1.JPG" width="300">
 
-![PCB BOTTOM](./images/20200317.3.JPG)
+<img src="./images/20200317.2.JPG" width="300">
 
-![SPACE SHIP ASSEMBLY](./images/20200317.4.JPG)
+<img src="./images/20200317.3.JPG" width="300">
 
-![SPACE SHIP ASSEMBLY ON](./images/20200317.5.JPG)
+<img src="./images/20200317.4.JPG" width="300">
+
+<img src="./images/20200317.5.JPG" width="300">
